@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Azim! 👋 🛡️
+### Aspiring AI-Powered Pentester | Cyber Security Enthusiast | Python Developer
 
-<!--
-**azim-sec/azim-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 **Current Focus:** Completing the **Junior Penetration Tester** path on TryHackMe (Current Progress: 23%).
+- 🌱 **Continuous Learning:** Enrolled in the **Google Cybersecurity Professional Certificate** (Course 3) and mastering Python for Security Automation.
+- 🐍 **Technical Projects:** Developing security tools like Port Scanners and automation scripts.
+- 🎯 **Career Goal:** To become a world-class **Red Teamer** and contribute to securing global digital infrastructures.
+- 💬 **Ask me about:** Network Security, Linux Fundamentals, and Web Hacking basics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Toolbox:
+- **Security Tools:** Nmap, Burp Suite, Gobuster, Wireshark, Metasploit.
+- **Operating Systems:** Kali Linux, Ubuntu.
+- **Programming:** Python (Security Focused), Bash Scripting.
+
+---
+
+### 📊 GitHub Stats:
+![Azim's GitHub stats](https://github-readme-stats.vercel.app/api?username=azim-sec&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azim-sec&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect:
+- [LinkedIn](তোমার লিঙ্কডইন প্রোফাইল লিঙ্কটি এখানে দাও)
+- [TryHackMe Profile](https://tryhackme.com/p/M4D4Z)
+
+---
+*"The quieter you become, the more you are able to hear."* 🤫
