@@ -25,7 +25,7 @@
 ---
 
 ### 📫 Let's Connect:
-- [LinkedIn](তোমার লিঙ্কডইন প্রোফাইল লিঙ্কটি এখানে দাও)
+- [LinkedIn](www.linkedin.com/in/mohammadazim-me)
 - [TryHackMe Profile](https://tryhackme.com/p/M4D4Z)
 
 ---
