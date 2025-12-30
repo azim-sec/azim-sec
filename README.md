@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 **Current Focus:** Completing the **Junior Penetration Tester** path on TryHackMe (Current Progress: 23%).
+- 🔭 **Current Focus:** Completing the **Junior Penetration Tester** path on TryHackMe (Current Progress: 28%).
 - 🌱 **Continuous Learning:** Enrolled in the **Google Cybersecurity Professional Certificate** (Course 3) and mastering Python for Security Automation.
 - 🐍 **Technical Projects:** Developing security tools like Port Scanners and automation scripts.
 - 🎯 **Career Goal:** To become a world-class **Red Teamer** and contribute to securing global digital infrastructures.
@@ -25,7 +25,7 @@
 ---
 
 ### 📫 Let's Connect:
-- [LinkedIn](www.linkedin.com/in/mohammadazim-me)
+- [LinkedIn](https://www.linkedin.com/in/mohammadazim-me)
 - [TryHackMe Profile](https://tryhackme.com/p/M4D4Z)
 
 ---
